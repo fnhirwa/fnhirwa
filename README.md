@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
 
-[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti-felix-b9980b19b/)  [Twitter](https://twitter.com/__hirwa)
+[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti-felix-b9980b19b/)  
+
+[Twitter](https://twitter.com/__hirwa)
