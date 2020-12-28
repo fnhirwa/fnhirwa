@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **hirwa-nshuti/hirwa-nshuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
 
-[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti-felix-b9980b19b/)  
+[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti-felix-b9980b19b/){:target="_blank"}  
 
-[Twitter](https://twitter.com/__hirwa)
+[Twitter](https://twitter.com/__hirwa){:target="_blank"}
