@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working hard to get skills in Machine learning
-- 🌱 I’m currently learning python programming and Machine Learning in general
+- 🌱 Currently Excelling Skills in python programming and Machine Learning in general
 - 👯 I’m looking to collaborate on any project or Internship opportunities.
 
 
