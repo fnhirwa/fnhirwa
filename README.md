@@ -13,3 +13,9 @@
 [LinkedIn](https://www.linkedin.com/in/hirwa-nshuti-felix-b9980b19b/)  
 
 [Twitter](https://twitter.com/__hirwa)
+
+
+<details>
+  <summary> 📫<b><i>GitHub Stats</i></b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=gotham" alt="Darsh Shah GitHub Stats" />
+</details> 
