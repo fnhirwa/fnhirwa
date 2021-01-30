@@ -10,9 +10,9 @@
 
 - 📫 How to reach me: 
 
-[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti-felix-b9980b19b/)  
+[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti/)  
 
-[Twitter]<target="">(https://twitter.com/__hirwa)
+[Twitter](https://twitter.com/__hirwa)
 
 
 <details>
