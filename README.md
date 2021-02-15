@@ -19,3 +19,4 @@
   <summary> 📫<b><i>GitHub Stats</i></b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=Minima" alt="Darsh Shah GitHub Stats" />
 </details> 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hirwa-nshuti.hirwa-nshuti)
