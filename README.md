@@ -21,8 +21,6 @@
 </details> 
 
 <details>
-<summary>Profile Visits </summary>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hirwa-nshuti/.hirwa-nshuti)
   <summary>Coding Stats</summary>
 <a href="https://github.com/hirwa-nshuti/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirwa-nshuti&layout=compact&theme=blue-green" />
