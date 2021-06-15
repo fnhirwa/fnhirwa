@@ -16,7 +16,7 @@
 
 * [IBM AI Engineering Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ8XCQESLPC9).
 * [IBM Applied AI Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/P9YCBCQGVKS5).
-* [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/P9YCBCQGVKS5).
+* [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/HCGWF63TF5MJ).
 
 <details>
   <summary> 🤓 <b><i>GitHub Stats</i></b></summary>
