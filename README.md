@@ -9,8 +9,8 @@
 
 
 💬 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti/)  
-[Twitter](https://twitter.com/__hirwa)
+* [LinkedIn](https://www.linkedin.com/in/hirwa-nshuti/)  
+* [Twitter](https://twitter.com/__hirwa)
 
 ## Professional Certifications ✍🏿
 
