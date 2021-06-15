@@ -14,9 +14,9 @@
 
 ## Professional Certifications ✍🏿
 
-* [IBM AI Engineering Specialization - IBM, Coursera](https://github.com/hirwa-nshuti/hirwa-nshuti/blob/main/Ceritifications/IBM%20AI%20Engineering.pdf).
-* [IBM Applied AI Specialization - IBM, Coursera](https://github.com/hirwa-nshuti/hirwa-nshuti/blob/main/Ceritifications/IBM%20Applied%20AI.pdf).
-* [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://github.com/hirwa-nshuti/hirwa-nshuti/blob/main/Ceritifications/Web%20Specialization.pdf).
+* [IBM AI Engineering Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ8XCQESLPC9).
+* [IBM Applied AI Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/P9YCBCQGVKS5).
+* [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/P9YCBCQGVKS5).
 
 <details>
   <summary> 🤓 <b><i>GitHub Stats</i></b></summary>
