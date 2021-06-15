@@ -1,19 +1,22 @@
-# Hi there 👋
+# Hi there 🥸
 
-*Thank you for landing to my account am a Biomedical equipment Technology Student. Passionatly loving the technology especially the computer programming.*
-
-
-- 🔭 I’m currently working hard to get skills in Machine learning
-- 🌱 Currently Excelling Skills in python programming and Machine Learning in general
-- 👯 I’m available for any programming opportunities.
+*Thank you for landing to my account am a Biomedical equipment Technology Student. Passionately loving the technology especially the computer programming.*
 
 
-- 📫 How to reach me: 
+- 💪🏿 I’m currently working hard to get skills in Machine learning
+- 🧠 Currently Excelling Skills in python programming and Machine Learning in general
+- 🤝 I’m available for any programming opportunities.
+
+
+- 💬 How to reach me: 
 
 :link: [LinkedIn](https://www.linkedin.com/in/hirwa-nshuti/)  
 
 :link: [Twitter](https://twitter.com/__hirwa)
 
+## Professional Certifications ✍🏿
+
+* 
 
 <details>
   <summary> 📫<b><i>GitHub Stats</i></b></summary>
