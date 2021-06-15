@@ -8,18 +8,18 @@
 - 🤝 I’m available for any programming opportunities.
 
 
-- 💬 How to reach me: 
-
-:link: [LinkedIn](https://www.linkedin.com/in/hirwa-nshuti/)  
-
-:link: [Twitter](https://twitter.com/__hirwa)
+💬 How to reach me: 
+[LinkedIn](https://www.linkedin.com/in/hirwa-nshuti/)  
+[Twitter](https://twitter.com/__hirwa)
 
 ## Professional Certifications ✍🏿
 
-* 
+* [IBM AI Engineering Specialization - IBM, Coursera](https://github.com/hirwa-nshuti/hirwa-nshuti/blob/main/Ceritifications/IBM%20AI%20Engineering.pdf).
+* [IBM Applied AI Specialization - IBM, Coursera](https://github.com/hirwa-nshuti/hirwa-nshuti/blob/main/Ceritifications/IBM%20Applied%20AI.pdf).
+* [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://github.com/hirwa-nshuti/hirwa-nshuti/blob/main/Ceritifications/Web%20Specialization.pdf).
 
 <details>
-  <summary> 📫<b><i>GitHub Stats</i></b></summary>
+  <summary> 🤓 <b><i>GitHub Stats</i></b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=Minima" alt="Darsh Shah GitHub Stats" />
 </details> 
 
