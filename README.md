@@ -1,6 +1,6 @@
 # Hi there 🥸
 
-*Thank you for landing to my account am a Biomedical equipment Technology Student. Passionately loving the technology especially the computer programming.*
+*Welcome to my account. I am a Machine Learning Enthusiast working hard to excel my skills. Passionately loving the technology especially the computer programming.*
 
 
 - 💪🏿 I’m currently working hard to get skills in Machine learning
@@ -20,7 +20,7 @@
 
 <details>
   <summary> 🤓 <b><i>GitHub Stats</i></b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=Minima" alt="Darsh Shah GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=Minima" alt=" Felix GitHub Stats" />
 </details> 
 
 <details>
