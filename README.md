@@ -20,6 +20,7 @@
 * [IBM AI Engineering Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ8XCQESLPC9).
 * [IBM Applied AI Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/P9YCBCQGVKS5).
 * [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/HCGWF63TF5MJ).
+* [DeepLearning.AI TensorFlow Developer Specialization - DeepLearning AI, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LUJG73UHFK85).
 
 <!-- START NEW SECTION -->
 <p align="center">
