@@ -19,19 +19,6 @@
 * [IBM Applied AI Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/P9YCBCQGVKS5).
 * [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/HCGWF63TF5MJ).
 
-<details>
-  <summary> 🤓 <b><i>GitHub Stats</i></b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=Minima" alt=" Felix GitHub Stats" />
-</details> 
-
-<details>
-  <summary>Coding Stats</summary>
-<a href="https://github.com/hirwa-nshuti/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hirwa-nshuti&layout=compact&theme=blue-green" />
-</a>
-  
-</details> 
-
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
@@ -44,6 +31,6 @@
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyebukayire}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hirwa-nshuti}/count.svg" /></p> 
 <br></div>
 
