@@ -21,16 +21,16 @@
 
 <!-- START NEW SECTION -->
 <p align="center">
- <h2 align="center">My Github Stats</h2>
+ <h2 align="center">Github Stats</h2>
 
 |Github stats| Languages|Streaks|
 |-|-|-|
-|[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=dark&hide_title=true)](https://github.com/hirwa-nshuti)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|![hirwa-nshuti](https://github-readme-streak-stats.herokuapp.com/?user=hirwa-nshuti&theme=dark)
+|[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=dark&hide_title=true)](https://github.com/hirwa-nshuti)|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hirwa-nshuti)|![hirwa-nshuti](https://github-readme-streak-stats.herokuapp.com/?user=hirwa-nshuti&theme=dark)
 <hr>
 
 <!-- START NEW SECTION -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Profile Visits</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hirwa-nshuti}/count.svg" /></p> 
 <br></div>
 
