@@ -3,8 +3,7 @@
 *Welcome to my account. I am a Machine Learning Enthusiast working hard to excel my skills. Passionately loving the technology especially the computer programming.*
 
 
-- 💪🏿 I’m currently working hard to get skills in Machine learning
-- 🧠 Currently Excelling Skills in python programming and Machine Learning in general
+- 💪🏿 Always working hard to get accurate skills in Machine learning and Excelling Skills in python programming
 - 🤝 I’m available for any programming opportunities.
 
 
