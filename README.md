@@ -6,6 +6,8 @@
 - 💪🏿 Always working hard to get accurate skills in Machine learning and Excelling Skills in python programming
 - 🤝 I’m available for any programming opportunities.
 
+[My Resume](https://github.com/hirwa-nshuti/hirwa-nshuti/tree/main/Resume)
+
 
 💬 How to reach me: 
 
