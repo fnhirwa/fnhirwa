@@ -31,7 +31,7 @@
 
 |Github stats| Languages|Streaks|
 |-|-|-|
-|[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&show_icons=true&theme=dark&hide_title=true)](https://github.com/hirwa-nshuti)|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hirwa-nshuti)|![hirwa-nshuti](https://github-readme-streak-stats.herokuapp.com/?user=hirwa-nshuti&theme=dark)
+|[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&count_private=true&show_icons=true&theme=radical)](https://github.com/hirwa-nshuti)|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hirwa-nshuti)|![hirwa-nshuti](https://github-readme-streak-stats.herokuapp.com/?user=hirwa-nshuti&theme=dark)
 <hr>
 
 <!-- START NEW SECTION -->
