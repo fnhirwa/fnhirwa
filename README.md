@@ -1,4 +1,4 @@
-# Hi there 🥸
+# Hi there 👋🏿
 
 *Welcome to my account. I am a Machine Learning Enthusiast working hard to excel my skills. Passionately loving the technology especially the computer programming.*
 
