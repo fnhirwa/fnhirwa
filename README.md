@@ -1,9 +1,14 @@
 # Hi there 👋🏿
+## I am Felix Hirwa Nshuti<br>
+ <h3>A Student at Pandit Deendayal Energy University.
+<br> Pursuing my First year of B.Tech in Computer Science and Engineering.</h3>
 
-*Welcome to my account. I am a Machine Learning Enthusiast working hard to excel my skills. Passionately loving the technology especially the computer programming.*
+<br>
+</br>
+
+<i>I am Python programmer and Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. Taking up the skills to become a good Software Engineer 💪🏿.</i>
 
 
-- 💪🏿 Always working hard to get accurate skills in Machine learning and Excelling Skills in python programming
 - 🤝 Open for opportunities
 
 
