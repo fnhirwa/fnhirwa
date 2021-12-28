@@ -19,7 +19,7 @@
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/hirwa-nshuti/)
 
 
-## Professional Certifications ✍🏿
+## Online Certifications ✍🏿
 
 * [Machine Learning - Stanford University, Coursera](https://www.coursera.org/account/accomplishments/certificate/S7K3LD6C674M)
 * [IBM AI Engineering Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ8XCQESLPC9).
