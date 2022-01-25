@@ -6,7 +6,7 @@
 <br>
 </br>
 
-<i>I am Python programmer and Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. Taking up the skills to become a good Software Engineer 💪🏿.</i>
+<i>I am Python programmer and Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. Taking up the skills to become a good Engineer 💪🏿.</i>
 
 
 - 🤝 Open to opportunities
