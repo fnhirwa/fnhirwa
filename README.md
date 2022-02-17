@@ -1,7 +1,7 @@
 # Hi there 👋🏿
 ## I am Felix Hirwa Nshuti<br>
  <h3>A Student at Pandit Deendayal Energy University.
-<br> Pursuing my First year of B.Tech in Computer Science and Engineering.</h3>
+<br> Pursuing First year of B.Tech in Computer Science and Engineering.</h3>
 
 <br>
 </br>
