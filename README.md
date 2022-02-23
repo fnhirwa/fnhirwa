@@ -1,19 +1,8 @@
 # Hi there 👋🏿
-<<<<<<< HEAD
-=======
-## I am Felix Hirwa Nshuti<br>
- <h3>A Student at Pandit Deendayal Energy University.
-<br> Pursuing First year of B.Tech in Computer Science and Engineering.</h3>
->>>>>>> c4e5df0cb2214fdbf60d95459f99706cbe0de7de
 
 ## I am Felix Hirwa Nshuti
 
-<<<<<<< HEAD
 ### A Student at Pandit Deendayal Energy University
-=======
-<i>A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks.
- <br>I can program in both Pythona and C/C++. And practicing hard to be a better engineer💪🏿.</i>
->>>>>>> c4e5df0cb2214fdbf60d95459f99706cbe0de7de
 
 Pursuing my First year of B.Tech in Computer Science and Engineering.
 
