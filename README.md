@@ -26,10 +26,10 @@ _A Machine Learning Enthusiast with skills ranging from building classical Machi
 
 ## Github Stats
 
-|Github stats| Languages|Streaks|
-|-|-|-|
-|[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&count_private=true&show_icons=true&theme=radical)](https://github.com/hirwa-nshuti)|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hirwa-nshuti)|![hirwa-nshuti](https://github-readme-streak-stats.herokuapp.com/?user=hirwa-nshuti&theme=dark)
+|Github stats|Profile Visits|
+|-|-|
+|[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&count_private=true&show_icons=true&theme=radical)](https://github.com/hirwa-nshuti)|![indir](https://profile-counter.glitch.me/{hirwa-nshuti}/count.svg)|
 
-Profile Visits:
-
-![indir](https://profile-counter.glitch.me/{hirwa-nshuti}/count.svg)
+|Languages|Streaks|
+|--------------|-----------------------|
+|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hirwa-nshuti)|![hirwa-nshuti](https://github-readme-streak-stats.herokuapp.com/?user=hirwa-nshuti&theme=dark)|
