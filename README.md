@@ -32,4 +32,4 @@ _A Machine Learning Enthusiast with skills ranging from building classical Machi
 
 |Languages|Streaks|
 |--------------|-----------------------|
-|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/hirwa-nshuti&hide=jupyter%20notebook)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirwa-nshuti&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
+|[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwa-nshuti&show_icons=true&theme=dark&layout=compact&hide_title=true&hide=jupyter%20notebook)](https://github.com/hirwa-nshuti)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirwa-nshuti&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
