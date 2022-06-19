@@ -8,7 +8,7 @@ Exploring one topic at a time.
 
 _A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python and C/C++. My most interests lie in computer vision and mordern deep learning plus deep understanding about how computer works._
 
-I Use ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white) OS
+My favorite OS is: ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 
 💬 Contacts:
 
