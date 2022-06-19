@@ -2,18 +2,18 @@
 
 ## I am Felix Hirwa Nshuti
 
-### A Student at Pandit Deendayal Energy University
+### Studying Computer Science and Engineering
 
-Pursuing my First year of B.Tech in Computer Science and Engineering.
+Exploring one topic at a time.
 
-_A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python and C/C++. My most interests lie in computer vision and mordern deep learning._
+_A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python and C/C++. My most interests lie in computer vision and mordern deep learning plus deep understanding about how computer works._
 
 💬 Contacts:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__hirwa)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-nshuti/)
 
-## Online Certifications ✍🏿
+## Some of my Online Certifications ✍🏿
 
 * [Machine Learning - Stanford University, Coursera](https://www.coursera.org/account/accomplishments/certificate/S7K3LD6C674M)
 * [IBM AI Engineering Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ8XCQESLPC9).
