@@ -10,18 +10,19 @@ _A Machine Learning Enthusiast with skills ranging from building classical Machi
 
 My favorite OS is: ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 
-💬 Contacts:
+## Some of my favorite Repositories
+
+<!-- add comment here -->
+<p align="left">
+  <a href="https://github.com/hirwa-nshuti/UnderstandNN"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=UnderstandNN&theme=radical&hide_border=true&show_icons=false" alt="UnderstandNN"></a>
+  <a href="https://github.com/hirwa-nshuti/DSA-With-Python"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=DSA-With-Python&theme=radical&hide_border=true&show_icons=false" alt="DSA-With-Python"></a>
+  <a href="https://github.com/hirwa-nshuti/DSA-With-C-and-CPP"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=DSA-With-C-and-CPP&theme=radical&hide_border=true&show_icons=false" alt="DSA-With-C-and-CPP"></a>
+  <a href="https://github.com/hirwa-nshuti/Vision"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=Vision&theme=radical&hide_border=true&show_icons=false" alt="Vision"></a>
+  
+💬 Let's connect:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__hirwa)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-nshuti/)
-
-## Some of my Online Certifications ✍🏿
-
-* [Machine Learning - Stanford University, Coursera](https://www.coursera.org/account/accomplishments/certificate/S7K3LD6C674M)
-* [IBM AI Engineering Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ8XCQESLPC9).
-* [IBM Applied AI Specialization - IBM, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/P9YCBCQGVKS5).
-* [Web Design for Everybody: Basics of Web Development & Coding Specialization - University of Michigan, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/HCGWF63TF5MJ).
-* [DeepLearning.AI TensorFlow Developer Specialization - DeepLearning AI, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/LUJG73UHFK85).
 
 ## Github Stats
 
