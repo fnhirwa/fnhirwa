@@ -12,12 +12,11 @@ My favorite OS is: ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?st
 
 ## Some of my favorite Repositories
 
-<!-- add comment here -->
 <p align="left">
   <a href="https://github.com/hirwa-nshuti/UnderstandNN"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=UnderstandNN&theme=radical&hide_border=true&show_icons=false" alt="UnderstandNN"></a>
   <a href="https://github.com/hirwa-nshuti/DSA-With-Python"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=DSA-With-Python&theme=radical&hide_border=true&show_icons=false" alt="DSA-With-Python"></a>
   <a href="https://github.com/hirwa-nshuti/DSA-With-C-and-CPP"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=DSA-With-C-and-CPP&theme=radical&hide_border=true&show_icons=false" alt="DSA-With-C-and-CPP"></a>
-  <a href="https://github.com/hirwa-nshuti/Vision"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=Vision&theme=radical&hide_border=true&show_icons=false" alt="Vision"></a>
+  <a href="https://github.com/hirwa-nshuti/All-Ml"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hirwa-nshuti&repo=All-Ml&theme=radical&hide_border=true&show_icons=false" alt="All-Ml"></a>
   
 💬 Let's connect:
 
