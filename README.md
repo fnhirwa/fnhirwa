@@ -8,8 +8,6 @@ Exploring one topic at a time.
 
 _A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python and C/C++. My most interests lie in computer vision and mordern deep learning plus deep understanding about how computer works._
 
-My favorite OS is: ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
-  
 💬 Shut me a message:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__hirwa)
