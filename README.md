@@ -6,7 +6,7 @@
 
 Exploring one topic at a time.
 
-_A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python and C/C++. My most interests lie in computer vision and mordern deep learning plus deep understanding about how computer works._
+_A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python and C/C++. My most interests lie deep understanding about how computer works._
 
 💬 Shoot me a message:
 
