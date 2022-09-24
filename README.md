@@ -2,11 +2,11 @@
 
 ## I am Felix Hirwa Nshuti
 
-### Studying Computer Science and Engineering
+### Interested in Machine Learning and Open Source
 
 Exploring one topic at a time.
 
-_A Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python, C/C++, and Java. My most interests lie deep understanding about how computer works._
+_I am a Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python, C/C++, and Java. My most interests lie deep understanding about how computer works and contributing to open source projects._
 
 💬 Shoot me a message:
 
