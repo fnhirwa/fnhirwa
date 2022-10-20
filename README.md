@@ -6,7 +6,7 @@
 
 Exploring one topic at a time.
 
-_I am a Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python, C/C++, and Java. My most interests lie deep understanding about how computer works and contributing to open source projects._
+_I am a Machine Learning Enthusiast with skills ranging from building classical Machine Learning Algorithms to Deep Neural Networks. I can program in both Python, C/C++, and Java. I stand with keen interests in deep understanding about how computer works and contributing to open source projects._
 
 💬 Available at:
 
