@@ -22,6 +22,7 @@ My successful experiences so far include:
 
 - Being a Machine learning Research Engineer at [Ivy](https://unify.ai/) Where I am contributing to and maintaining the [Ivy](https://github.com/unifyai/ivy) a Unified Machine Learning open-source library. Feel free to join us in the Unification of Machine Learning frameworks.
 
+- Successfully contributed to other open-source projects and still looking forward to contributing to more.
 
 💬 Available on:
 
