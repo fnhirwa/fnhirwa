@@ -7,4 +7,4 @@ My interests lie in Operating Systems, System Programming and Machine Learning. 
 
 |                           Github stats                          |                             Streaks                       |
 |-----------------------------------------------------------------|-----------------------------------------------------------|
-[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=hirwa-nshuti&count_private=true&show_icons=true&theme=radical)](https://github.com/hirwa-nshuti)|[![](https://streak-stats.demolab.com/?user=hirwa-nshuti&theme=gray-white&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
+[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=fnhirwa&count_private=true&show_icons=true&theme=radical)](https://github.com/fnhirwa)|[![](https://streak-stats.demolab.com/?user=fnhirwa&theme=gray-white&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
