@@ -2,7 +2,7 @@
 
 A Computer Science enthusiast from Rwanda 🇷🇼
 
-My interests lie in Operating Systems, System Programming and Machine Learning. I am strongly interested in open-source projects and always enjoy actively participating in such projects. I am presently seeking opportunities for collaboration in areas that resonate with my professional interests.
+My interests lie in Operating Systems, System Programming, Information Theory, and Machine Learning. I am strongly interested in open-source projects and always enjoy actively participating in such projects. I am presently seeking opportunities for collaboration in areas that resonate with my professional interests.
 
 
 |                           Github stats                          |                             Streaks                       |
