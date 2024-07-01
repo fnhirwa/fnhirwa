@@ -9,6 +9,6 @@ I've gained experience in different areas of Computer Science, mainly focusing o
 I am presently seeking opportunities for collaboration in areas that resonate with my professional interests.
 
 
-|                           Github stats                          |                             Streaks                       |
-|-----------------------------------------------------------------|-----------------------------------------------------------|
-[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=fnhirwa&count_private=true&show_icons=true&theme=radical)](https://github.com/fnhirwa)|[![](https://streak-stats.demolab.com/?user=fnhirwa&theme=gray-white&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
+|                           Github stats                          |
+|-----------------------------------------------------------------|
+[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=fnhirwa&count_private=true&show_icons=true&theme=radical)](https://github.com/fnhirwa)
