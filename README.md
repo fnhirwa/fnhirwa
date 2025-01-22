@@ -1,6 +1,6 @@
 ## 👋 Hello there! I'm Felix
 
-A Computer Science enthusiast from Rwanda 🇷🇼
+A Computer Engineer.
 
 My interests lie in Operating Systems, Systems Programming, Programming Languages and Compilers, and Machine Learning. I am strongly interested in open-source projects and currently in my early research career. I am looking to explore methods and applications of optimal computing systems in the field of Machine Learning and Artificial Intelligence.
 
