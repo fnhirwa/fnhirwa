@@ -2,6 +2,6 @@
 
 A Computer Engineer.
 
-I am interested in Computer Architecture, Compilers, and Machine Learning.
+I am interested in Computer Architecture, Compilers, and Machine Learning Systems.
 
-I am an open-source contributor and maintainer.
+I work on kernels and compute graphs, as a contributor and maintainer of open-source ML and compiler projects.
