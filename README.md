@@ -1,4 +1,6 @@
-## 👋 Hello there! I'm Felix
+## Hello there! I'm Felix
+
+![Profile views](https://komarev.com/ghpvc/?username=fnhirwa&label=Profile+views&color=blue&style=flat)
 
 A Computer Engineer.
 
